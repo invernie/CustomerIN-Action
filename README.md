@@ -17,7 +17,9 @@ Recommender System @ this url: https://samsonafo-hackjunction-antanvo-app-9anw0u
 *opt-out_customer_history.csv*: transaction event data on customers who drop out - with dummy action columns   
    
 #### App files
-*deploy* folder contains the app files
+The *deploy* folder contains the files for the Streamlitapp app. 
+The file containing main app functionality is *app.py*.
+
       
  <br/><br/>   
       
