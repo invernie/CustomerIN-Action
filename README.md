@@ -15,6 +15,9 @@ Recommender System @ this url: https://samsonafo-hackjunction-antanvo-app-9anw0u
 *activities_junction_cut.csv*: (reduced) activity dataset containing activity codes, *etc*.   
     
 *opt-out_customer_history.csv*: transaction event data on customers who drop out - with dummy action columns   
+   
+#### App files
+*deploy* folder contains the app files
       
  <br/><br/>   
       
