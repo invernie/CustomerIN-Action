@@ -13,11 +13,9 @@ Recommender System @ this url: https://samsonafo-hackjunction-antanvo-app-9anw0u
 #### Data files
    
 *activities_junction_cut.csv*: (reduced) activity dataset containing activity codes, *etc*.   
-   
-*events_junction.csv*: transaction events dataset   
-   
+    
 *opt-out_customer_history.csv*: transaction event data on customers who drop out - with dummy action columns   
-   
+      
  <br/><br/>   
       
 <This project was created for the hackathon event *JunctionXBudapest 2022*. Challenge and data provided by Antavo.>
