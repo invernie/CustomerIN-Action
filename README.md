@@ -20,5 +20,5 @@ Recommender System @ this url: https://samsonafo-hackjunction-antanvo-app-9anw0u
    
  <br/><br/>   
       
-** This project was created for the hackathon event *JunctionXBudapest 2022*. Challenge and data provided by Antavo. **
+<This project was created for the hackathon event *JunctionXBudapest 2022*. Challenge and data provided by Antavo.>
 
